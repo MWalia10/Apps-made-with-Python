@@ -12,3 +12,5 @@ App 2: Image and Video Processing: Detecting objects captured in webcam
 App 3: English Dictionary
 
 App 4: Data Analysis & Visualization: Deployed of Justpy webapp
+
+App 5: Website Blocker: BAckend of a blocker that runs on Windows
