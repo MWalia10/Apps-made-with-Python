@@ -13,4 +13,4 @@ App 3: English Dictionary
 
 App 4: Data Analysis & Visualization: Deployed of Justpy webapp
 
-App 5: Website Blocker: BAckend of a blocker that runs on Windows
+App 5: Website Blocker: Backend of a blocker that runs on Windows
