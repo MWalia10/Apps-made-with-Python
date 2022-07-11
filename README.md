@@ -1,5 +1,5 @@
 # Apps-made-with-Python
-Apps made as a part of Udemy course: The Python Mega Course 2022
+Apps made as a part of Udemy course: The Python Mega Course
 
 Libraries used: Pandas, Numpy, Matplotlib, Glob, Folium, OpenCV, Bokeh, Pytz, Justpy, Flask
 
